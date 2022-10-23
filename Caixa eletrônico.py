@@ -36,4 +36,4 @@ while True:
         cedulas1 = v
         print('A quantidade notas de 1: {}'.format(v))
         break
-    
+    fshsfhsh
